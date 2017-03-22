@@ -150,7 +150,7 @@ public String url(String qtxt) {
 
 
     public boolean onQueryTextSubmit(String query) {
-        Toast.makeText(getApplicationContext(), "MY NIGGA WE MADE IT", Toast.LENGTH_LONG).show();
+        Toast.makeText(getApplicationContext(), "WE MADE IT", Toast.LENGTH_LONG).show();
 
         return false;
     }
